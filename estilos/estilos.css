@@ -1,0 +1,89 @@
+!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <link rel="stylesheet"href="/estilos.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>aula2</title>
+</head>
+
+<style>
+    a{
+        background-color: rgb(13, 0, 202);
+        display: block;
+    }
+    article{
+        display: flex;
+        align-items: center;
+    }
+    section input{
+        height: 21px;
+        border-radius: 20px;
+        margin:10px;
+        border-style: none;
+        padding-left: 10px;
+    }
+    section{
+
+    }
+    main{
+        display: flex;
+        flex-direction: column;
+
+    }
+    main{
+        display: flex;
+        flex-direction: column;
+
+    }
+    title{
+        background-color: blue;
+
+    }
+    body{
+        background-color: rgb(0, 0, 0);
+        background:none ;
+        border: 2px black;
+        margin: 5px;
+        padding-left: 15px;
+        padding-right: 20px;
+    }
+    menu{
+        background-color: bisque;
+
+    }
+    form{
+        display: flex;
+        flex-direction: column;
+        width: 500px;
+    }
+    form input{
+        margin:8px;
+    }
+    form input{
+        margin:4px;
+        border-radius: 5px;
+        border-style: solid;
+        height: 25px;
+        
+    }
+    form label{
+        margin: 4px;
+        border-radius: 5px;
+    }
+    nav ul a{
+        color: black;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    form textarea{
+        margin:4px;
+        border-radius: 5px;
+        border-style: solid;
+        
+    }   
+     ul a:hover{
+        color: rgb(255, 255, 255);
+        font-weight: 800;
+    }
+    
